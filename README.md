@@ -1,6 +1,6 @@
 # Web Application Privacy Scanner
 
-![Privacy Scanner Banner](https://raw.githubusercontent.com/AriyanBinBappy/yourrepo/main/banner.png)
+
 
 ---
 
